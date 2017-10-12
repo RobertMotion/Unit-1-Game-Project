@@ -1,0 +1,42 @@
+body {
+    background-image: url("game_images/blackjack-21.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+#blackjack {
+    color: red;
+}
+
+#wins {
+    color: rgb(0, 171, 121);
+}
+
+#dealer {
+    color: darkorange;
+}
+
+#score {
+    color: yellow;
+}
+
+#hit {
+    color: forestgreen;
+}
+
+#hold {
+    color: orangered;
+}
+
+#lose {
+    color: yellow;
+}
+
+#busted {
+    color: crimson;
+}
+
+#tie {
+    color: orange;
+}
